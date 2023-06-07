@@ -38,7 +38,13 @@ main img{
    border-radius: 20px;
 }
 footer{
-    margin-bottom: 30px;
+    margin-bottom: 40px;
+    
+}
+footer h1{
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
 }
 footer div img{
     height: 100%;
@@ -76,4 +82,8 @@ footer h5{
 }
 footer p{
     text-align: center;
+}
+footer a{
+    margin-left: 170px;
+    color: rgb(155, 97, 15);
 }
